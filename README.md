@@ -18,7 +18,9 @@ Instead of simply opening or closing a circuit, these inputs translate physical 
 - **Variable Action Strength**: Distinguishes between light and heavy attacks, or short and long passes, without needing extra buttons.
 
 ## Supported Games:
-- 
+- [Grand Theft Auto III](https://silent.rockstarvision.com/uploads/GInputIII.zip) - GInput
+- [Grand Theft Auto: Vice City](https://silent.rockstarvision.com/uploads/GInputVC.zip) - GInput
+- [Grand Theft Auto: San Andreas](https://silent.rockstarvision.com/uploads/GInputSA.zip) - GInput
   
 » [List of PC games that support pressure-sensitive buttons
 ](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_pressure-sensitive_buttons)
