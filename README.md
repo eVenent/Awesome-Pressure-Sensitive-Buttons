@@ -41,6 +41,7 @@ Instead of simply opening or closing a circuit, these inputs translate physical 
 ## Tools
 #### Free
 - [PadForge](https://github.com/hifihedgehog/PadForge) - Supports DualShock 2, Xbox OG, and DualShock 3 pressure-sensitive buttons, as well as Steam Deck and Steam Controller 2 pressure-sensitive touchpads. It converts these inputs to DirectInput axes, virtual DualShock 3 controllers, or the triggers and sticks of modern controllers. Modern controllers like the DualShock 4, DualSense, or the original Steam Controller (2015) feature a synthetic pressure-sensitivity option to assign touch inputs to predefined values (e.g., no touch: 0% press, touch: 50% press, and pressed touchpad: 100% press). The virtual DualShock 3 is natively recognized by the PCSX2 and RPCS3 emulators.
+- [OpenController](https://github.com/Brunovncs/OpenController) - Supports DualShock 3 pressure-sensitive buttons. It assigns them to triggers - useful for racing games and shooters with multi-stage actions (aim vs shoot).
   
 #### Premium
 - [reWASD](https://rewasd.com) - Supports the DualShock 3, as well as the DualShock 2 via adapters that mimic a DS3. Pressure-sensitive buttons can be mapped to three distinct, staged zones, each activating a different action. It supports a virtual DualShock 3, which is compatible with RPCS3 and [older WX builds of PCSX2](https://github.com/PCSX2/pcsx2/releases/tag/v1.7.3771).
