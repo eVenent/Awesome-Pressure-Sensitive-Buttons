@@ -6,6 +6,16 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 ## About
 > Pressure-sensitive buttons (or analog buttons) detect the exact amount of force a player applies, moving beyond standard "on/off" digital switches. While common on older console face buttons (like the PS2, Xbox OG and PS3), modern controllers mostly restrict this tech to the left and right shoulder triggers.
 
+## Devices
+| Controller | Console | Keyboard |
+| ------------- | ------------- | -- |
+| NeGcon | Nintendo DS | Wooting one |
+| Xbox OG | iPhone generations with 3D Touch | Wooting two |
+| DualShock 2 | Android devices with pressure touch| Razer Huntsman V2 Analog |
+| DualShock 3 | | Razer Huntsman Mini Analog |
+| Steam Deck | | Razer Tartarus Pro |
+| Steam Controller | | SteelSeries Apex Pro |
+
 ### How They Work
 Instead of simply opening or closing a circuit, these inputs translate physical force into a shifting electrical current using two main methods:
 - **Force-Sensitive Resistors**: Used under rubber face buttons. Pressing harder squishes a conductive pad, increasing its surface contact with a circuit board. This lowers electrical resistance and signals a harder press.
