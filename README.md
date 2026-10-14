@@ -9,7 +9,7 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 ## Devices
 | Controller | Console | Keyboard |
 | ------------- | ------------- | -- |
-| NeGcon | Nintendo DS | Wooting one |
+| NeGcon | Nintendo DS touchpad | Wooting one |
 | Xbox OG | iPhone generations with 3D Touch | Wooting two |
 | DualShock 2 | Android devices with pressure touch| Razer Huntsman V2 Analog |
 | DualShock 3 | | Razer Huntsman Mini Analog |
