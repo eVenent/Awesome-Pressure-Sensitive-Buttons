@@ -46,8 +46,30 @@ Instead of simply opening or closing a circuit, these inputs translate physical 
 #### Premium
 - [reWASD](https://rewasd.com) - Supports the DualShock 3, as well as the DualShock 2 via adapters that mimic a DS3. Pressure-sensitive buttons can be mapped to three distinct, staged zones, each activating a different action. It supports a virtual DualShock 3, which is compatible with RPCS3 and [older WX builds of PCSX2](https://github.com/PCSX2/pcsx2/releases/tag/v1.7.3771).
 
+### Emulators
+- PCSX2
+- RPCS3
+- DuckStation
+- RetroArch
+
 ## Information
-- 
+- [SDL3](https://github.com/libsdl-org/SDL/issues/5148) - native support for DualShock 3 pressure-sensitive buttons.
+
+## Drivers
+### DualShock 3
+- [DsHidMini](https://github.com/nefarius/DsHidMini)
+- [SCE Wireless Controller Driver v3.0.0.0](https://community.pcgamingwiki.com/files/file/2854-sce-wireless-controller-driver-v3000-official-drivers-for-dualshock-3/)
+#### Retired
+- [FireShock](https://github.com/nefarius/FireShock)
+- [ScpToolkit](https://github.com/nefarius/ScpToolkit)
+- [MotioninJoy](https://archive.org/details/motioninjoy-better-ds3)
+
+### Xbox OG Controller
+- [xbcd](https://github.com/thundercatsNZ/xbcd/releases)
+- [Mayflash / TigerGame driver](https://www.s-config.com/xbcd-mayflash-xbox-joystick-driver/)
+
+### DualShock 2
+- [Bliss-Box_API_TOOL](https://sourceforge.net/projects/bliss-box-api/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
