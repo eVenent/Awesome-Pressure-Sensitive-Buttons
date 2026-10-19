@@ -6,7 +6,7 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 ## About
 > Pressure-sensitive buttons (or analog buttons) detect the exact amount of force a player applies, moving beyond standard "on/off" digital switches. While common on older console face buttons (like the PS2, Xbox OG and PS3), modern controllers mostly restrict this tech to the left and right shoulder triggers.
 
-See [The Short History of Pressure Sensitive Buttons](https://www.youtube.com/watch?v=t48-FhXNmSo).
+**»** See [The Short History of Pressure Sensitive Buttons](https://www.youtube.com/watch?v=t48-FhXNmSo).
 
 ## Devices
 | Controller | Console | Keyboard |
@@ -29,15 +29,21 @@ Instead of simply opening or closing a circuit, these inputs translate physical 
 - **Dynamic Movement**: Adjusts character speed smoothly from a slow creep to a full sprint based entirely on finger pressure.
 - **Variable Action Strength**: Distinguishes between light and heavy attacks, or short and long passes, without needing extra buttons.
 
+### Use Cases
+- **Racing and driving**: Acceleration control.
+- **Weapon**: Soft press or slow press - aim a weapon, hard press - fire.
+- **Movement**: Run speed control, higher or longer jumps when hard press.
+- **Meele combat**: Soft press - quick attack, hard press - strong attack.
+
 ## Supported Games:
 - [Grand Theft Auto III](https://silent.rockstarvision.com/uploads/GInputIII.zip) - GInput
 - [Grand Theft Auto: Vice City](https://silent.rockstarvision.com/uploads/GInputVC.zip) - GInput
 - [Grand Theft Auto: San Andreas](https://silent.rockstarvision.com/uploads/GInputSA.zip) - GInput
   
-» [List of PC games that support pressure-sensitive buttons
+**»** [List of PC games that support pressure-sensitive buttons
 ](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_pressure-sensitive_buttons)
 
-» [List of console games that support pressure-sensitive buttons
+**»** [List of console games that support pressure-sensitive buttons
 ](https://emulation.gametechwiki.com/index.php/List_of_console_games_that_support_pressure-sensitive_buttons) | [PS2](https://forums.pcsx2.net/Thread-Pressure-sensitive-button-list) | [Xbox OG](https://github.com/xemu-project/xemu/issues/2609)
 
 ## Tools
