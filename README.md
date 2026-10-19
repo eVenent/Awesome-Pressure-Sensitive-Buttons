@@ -38,7 +38,7 @@ Instead of simply opening or closing a circuit, these inputs translate physical 
 ](https://www.pcgamingwiki.com/wiki/List_of_games_that_support_pressure-sensitive_buttons)
 
 » [List of console games that support pressure-sensitive buttons
-](https://emulation.gametechwiki.com/index.php/List_of_console_games_that_support_pressure-sensitive_buttons)
+](https://emulation.gametechwiki.com/index.php/List_of_console_games_that_support_pressure-sensitive_buttons) | [PS2](https://forums.pcsx2.net/Thread-Pressure-sensitive-button-list) | [Xbox OG](https://github.com/xemu-project/xemu/issues/2609)
 
 ## Tools
 #### Free
