@@ -6,6 +6,8 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 ## About
 > Pressure-sensitive buttons (or analog buttons) detect the exact amount of force a player applies, moving beyond standard "on/off" digital switches. While common on older console face buttons (like the PS2, Xbox OG and PS3), modern controllers mostly restrict this tech to the left and right shoulder triggers.
 
+See [The Short History of Pressure Sensitive Buttons](https://www.youtube.com/watch?v=t48-FhXNmSo).
+
 ## Devices
 | Controller | Console | Keyboard |
 | ------------- | ------------- | -- |
