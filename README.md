@@ -10,9 +10,7 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 
 **»** See [The Short History of Pressure Sensitive Buttons](https://www.youtube.com/watch?v=t48-FhXNmSo).
 
---------------------
-
-## Devices
+### Devices
 | Controller | Console | Keyboard |
 | ------------- | ------------- | -- |
 | NeGcon | Nintendo DS touchpad | Wooting one |
