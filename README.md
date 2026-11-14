@@ -3,10 +3,14 @@
 
 Feel free to **contribute** / **star** / **fork** / **pull request**. Any **recommendations** and **suggestions** are welcome.
 
+--------------------
+
 ## About
 > Pressure-sensitive buttons (or analog buttons) detect the exact amount of force a player applies, moving beyond standard "on/off" digital switches. While common on older console face buttons (like the PS2, Xbox OG and PS3), modern controllers mostly restrict this tech to the left and right shoulder triggers.
 
 **»** See [The Short History of Pressure Sensitive Buttons](https://www.youtube.com/watch?v=t48-FhXNmSo).
+
+--------------------
 
 ## Devices
 | Controller | Console | Keyboard |
@@ -35,6 +39,8 @@ Instead of simply opening or closing a circuit, these inputs translate physical 
 - **Movement**: Run speed control, higher or longer jumps when hard press.
 - **Meele combat**: Soft press - quick attack, hard press - strong attack.
 
+--------------------
+
 ## Supported Games:
 - [Grand Theft Auto III](https://silent.rockstarvision.com/uploads/GInputIII.zip) - GInput
 - [Grand Theft Auto: Vice City](https://silent.rockstarvision.com/uploads/GInputVC.zip) - GInput
@@ -46,6 +52,8 @@ Instead of simply opening or closing a circuit, these inputs translate physical 
 **»** [List of console games that support pressure-sensitive buttons
 ](https://emulation.gametechwiki.com/index.php/List_of_console_games_that_support_pressure-sensitive_buttons) | [PS2](https://forums.pcsx2.net/Thread-Pressure-sensitive-button-list) | [Xbox OG](https://github.com/xemu-project/xemu/issues/2609)
 
+--------------------
+
 ## Tools
 #### Free
 - [PadForge](https://github.com/hifihedgehog/PadForge) - Supports DualShock 2, Xbox OG, and DualShock 3 pressure-sensitive buttons, as well as Steam Deck and Steam Controller 2 pressure-sensitive touchpads. It converts these inputs to DirectInput axes, virtual DualShock 3 controllers, or the triggers and sticks of modern controllers. Modern controllers like the DualShock 4, DualSense, or the original Steam Controller (2015) feature a synthetic pressure-sensitivity option to assign touch inputs to predefined values (e.g., no touch: 0% press, touch: 50% press, and pressed touchpad: 100% press). The virtual DualShock 3 is natively recognized by the PCSX2 and RPCS3 emulators.
@@ -54,14 +62,20 @@ Instead of simply opening or closing a circuit, these inputs translate physical 
 #### Premium
 - [reWASD](https://rewasd.com) - Supports the DualShock 3, as well as the DualShock 2 via adapters that mimic a DS3. Pressure-sensitive buttons can be mapped to three distinct, staged zones, each activating a different action. It supports a virtual DualShock 3, which is compatible with RPCS3 and [older WX builds of PCSX2](https://github.com/PCSX2/pcsx2/releases/tag/v1.7.3771).
 
-### Emulators
+--------------------
+
+## Emulators
 - PCSX2
 - RPCS3
 - DuckStation
 - RetroArch
 
+--------------------
+
 ## Information
 - [SDL3](https://github.com/libsdl-org/SDL/issues/5148) - native support for DualShock 3 pressure-sensitive buttons.
+
+--------------------
 
 ## Drivers
 ### DualShock 3
@@ -78,6 +92,8 @@ Instead of simply opening or closing a circuit, these inputs translate physical 
 
 ### DualShock 2
 - [Bliss-Box_API_TOOL](https://sourceforge.net/projects/bliss-box-api/)
+
+--------------------
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
