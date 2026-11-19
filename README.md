@@ -5,6 +5,25 @@ Feel free to **contribute** / **star** / **fork** / **pull request**. Any **reco
 
 --------------------
 
+## Table of contents
+- [About](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#About)
+    - [Devices](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#devices)
+    - [How They Work](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#how-they-work)
+    - [Key Benefits](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#key-benefits)
+    - [Use Cases](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#use-cases)
+- [Supported Games](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#supported-games)
+- [Tools](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#tools)
+    - [Free](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#free)
+    - [Premium](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#premium)
+- [Emulators](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#emulators)
+- [Information](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#information)
+- [Drivers](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#drivers)
+    - [DualShock 3](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#dualshock-3)
+    - [Xbox OG Controller](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#xbox-og-controller)
+    - [DualShock 2](https://github.com/eVenent/Awesome-Pressure-Sensitive-Buttons/#dualshock-2)
+
+--------------------
+
 ## About
 > Pressure-sensitive buttons (or analog buttons) detect the exact amount of force a player applies, moving beyond standard "on/off" digital switches. While common on older console face buttons (like the PS2, Xbox OG and PS3), modern controllers mostly restrict this tech to the left and right shoulder triggers.
 
